@@ -1,0 +1,1 @@
+I found that the program was trying to use an element of the vector that was not there so I took out the +1 on that and another place in the code. Then I was getting a bunch of 2s repeating and I found that in a nested for loop they were setting i = j so i took that line out and the code worked.

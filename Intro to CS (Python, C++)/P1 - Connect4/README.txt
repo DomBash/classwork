@@ -1,0 +1,2 @@
+Connect4
+My program is just a simple version of the well known game connect 4. You use the number keys (1-7)  to place your piece in the desired column. Blue starts first, then red goes and it will change back and forth for each turn. The first to get four pieces of their color in a row, column, or diagonally wins. You can press the 0 reset the board and play again. If you want to exit the game, just press the exit button in the window. Since the game uses Pygame it has to be run with python2. 

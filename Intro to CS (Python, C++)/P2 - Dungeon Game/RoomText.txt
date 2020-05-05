@@ -1,0 +1,6 @@
+Lobby:You are in the Lobby. Press (n) to take the stairs up, press (s) to leave the dungeon.
+Hallway1:You are in the Hallway. Press (s) to go back down the stairs to the Lobby, press (w) to go to the Bedroom.
+Bedroom:You are in the Bedroom. Press (e) to go back to the first Hallway, press (n) to go to the north Hallway.
+Hallway4:You are in the north Hallway. Press (s) to go back to the Bedroom, press (n) to go to the Library.
+Library:You are in the library. There are lots of book in here, but not much else, press (s) to go back to the north Hallway, press (e) to look at the books on the shelf.
+SecretRoom:You pull on a book and the shelf swings open. You found the secret room with the princess in it! Great Job!

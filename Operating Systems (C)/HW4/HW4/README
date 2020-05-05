@@ -1,0 +1,24 @@
+Dominic B
+University of Colorado Boulder
+Programming Assignment 4
+
+---Files---
+Makefile - GNU makefile to build all relevant code
+pager-lru.c - LRU paging strategy implementation.
+pager-predict.c - Predictive paging strategy implementation.
+
+---Examples---
+Build:
+ make
+
+Clean:
+ make clean
+
+View test options:
+ ./test-* -help
+
+Run pager-basic test:
+ ./test-basic
+
+Run API test:
+ ./test-api

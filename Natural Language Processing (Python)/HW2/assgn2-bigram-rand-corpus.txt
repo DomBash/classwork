@@ -1,0 +1,100 @@
+<s> i'm looking for dinner </s>
+<s> start over </s>
+<s> start over </s>
+<s> can i would like to go to have dinner </s>
+<s> can i don't care </s>
+<s> can i don't care about the restaurant </s>
+<s> any day </s>
+<s> i can i don't care </s>
+<s> what about the cost between fifteen minutes </s>
+<s> dinner </s>
+<s> uh fifteen minutes from icsi </s>
+<s> can i don't care </s>
+<s> start over </s>
+<s> can i wanna have some good </s>
+<s> um are there any kind of the list </s>
+<s> let's start over </s>
+<s> the walking distance of the cost </s>
+<s> start over </s>
+<s> start over </s>
+<s> do you tell me more than ten dollars </s>
+<s> what is there any day </s>
+<s> any day </s>
+<s> i don't care about the week </s>
+<s> what about nadine's omnivore </s>
+<s> do you tell me about the restaurant </s>
+<s> start over </s>
+<s> any good </s>
+<s> uh i wanna have dinner </s>
+<s> start over </s>
+<s> i don't care about the cost </s>
+<s> does not more than ten dollars </s>
+<s> i'm looking for a cheap food </s>
+<s> let's start over </s>
+<s> oh i don't mind about the cost more than ten dollars </s>
+<s> oh </s>
+<s> how about cafe </s>
+<s> tell me about blue nile serve </s>
+<s> start over </s>
+<s> uh i don't care </s>
+<s> where can i would like to have dinner </s>
+<s> let's start over </s>
+<s> start over </s>
+<s> i get a restaurant </s>
+<s> does not matter </s>
+<s> tell me about the distance of food </s>
+<s> tell me about the distance of food </s>
+<s> i wanna have dinner </s>
+<s> i'm looking for dinner </s>
+<s> what is the list again </s>
+<s> start over </s>
+<s> up to have some mexican food </s>
+<s> i have some thai food </s>
+<s> i can i don't care </s>
+<s> i don't care how about fifteen minutes </s>
+<s> i would like to have dinner </s>
+<s> does not matter </s>
+<s> how about the restaurant </s>
+<s> i don't mind walking distance from icsi </s>
+<s> i wanna eat german food </s>
+<s> i don't care how about the distance from icksee </s>
+<s> what about the cost to spend more than ten dollars </s>
+<s> can i would like to have a restaurant </s>
+<s> how about the cost is the restaurants in berkeley </s>
+<s> i wanna have dinner </s>
+<s> uh i would like to have dinner </s>
+<s> can i wanna have dinner </s>
+<s> i would like to spend less than ten dollars </s>
+<s> i don't care about the restaurant </s>
+<s> uh i don't care </s>
+<s> um the distance of the thai food </s>
+<s> tell me about the list of the restaurant </s>
+<s> let's start over </s>
+<s> can i would like to have some indian food </s>
+<s> i don't care about guerrero's </s>
+<s> i have some place </s>
+<s> can i would like to have dinner </s>
+<s> where can i would like to have dinner </s>
+<s> can i don't care </s>
+<s> okay </s>
+<s> i don't care </s>
+<s> okay let's start over </s>
+<s> let's start over </s>
+<s> i would like to have a french food </s>
+<s> start over </s>
+<s> start over </s>
+<s> i would like to be in berkeley </s>
+<s> i don't care about the list of the restaurant </s>
+<s> let's start over </s>
+<s> i'm looking for dinner </s>
+<s> uh i don't care about mexican </s>
+<s> what about the list again </s>
+<s> the week </s>
+<s> i don't care </s>
+<s> the food </s>
+<s> the restaurant </s>
+<s> oh i don't care about the distance is there any day </s>
+<s> start over </s>
+<s> i would like to spend more about the restaurant </s>
+<s> i don't care </s>
+<s> i wanna eat on sunday </s>

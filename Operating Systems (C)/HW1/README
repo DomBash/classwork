@@ -1,0 +1,11 @@
+Dominic B
+
+cs3753_add.c is the add function file
+test_add.c will test the add function and can be run anywhere and should print a result of 3
+
+every file should have the same path as stated in the instructions
+
+arch/x86/kernel/cs3753_add.c
+arch/x86/kernel/Makefile
+arch/x86/entry/entry/syscalls/syscall_64.tbl
+include/linux/syscalls.h 

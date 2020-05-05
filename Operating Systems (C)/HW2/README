@@ -1,0 +1,5 @@
+Dominic B
+
+Makefile - Used to compile simple_char_driver.c
+simple_char_driver.c - Driver to control the simple_character_device
+test program - Used to test the functionality of the simple_char_driver.c

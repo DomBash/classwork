@@ -1,0 +1,6 @@
+I had to find the passage back to the place I was before
+1 2 4 8 16 32
+1 -1702
+36 4 DrEvil
+2 2 14
+1 4 6 3 5 2

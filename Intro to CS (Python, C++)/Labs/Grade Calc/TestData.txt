@@ -1,0 +1,6 @@
+Tracey Boose 23 70 133 267
+Jamie Johnson 25 71 156 97
+Lee Fisher 110 158 0 0
+Greg Gohime 75 34 134 0
+Peter Pammer 285 56 0 46
+Mila Miller 112 141 156 67
